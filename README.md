@@ -1,6 +1,6 @@
 # 🚀 Hyprland-Nvidia
 
-This project aims to simplify the installation of the AUR package hyprland-nvidia to enable you to experience the Hyprland compositor with Nvidia graphics on your Arch Linux system.
+This project aims to simplify the installation of the AUR package **hyprland-nvidia** to enable you to experience the Hyprland compositor with Nvidia graphics on your Arch Linux system.
 
 If you're an Arch Linux enthusiast and you want to experience the beauty of Hyprland with Nvidia graphics, you've come to the right place. This repository is dedicated to streamlining the installation process, including a special Nvidia patch, which is essential for setting up Hyprland on your system.
 
