@@ -1,4 +1,4 @@
-# 🚀 Hyprland-Nvidia
+# 🚀 Hyprland-Nvidia 🌠
 
 Simplify the installation of AUR package **hyprland-nvidia** to enhance your Hyprland experience with Nvidia graphics!
 
