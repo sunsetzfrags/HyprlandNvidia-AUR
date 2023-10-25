@@ -1,10 +1,12 @@
-# 🚀 Hyprland-Nvidia 🌠
+# 🚀 Hyprland-Nvidia
 
-Simplify the installation of AUR package **hyprland-nvidia** to enhance your Hyprland experience with Nvidia graphics!
+Simplify the installation of the AUR package **hyprland-nvidia** to make it possible to enjoy the Hyprland compositor with Nvidia graphics on your Arch Linux system!
 
-If you're an Arch Linux enthusiast and you want to enjoy the Hyprland compositor with Nvidia graphics, you've come to the right place. This repository is designed to streamline the installation process for you, complete with a special Nvidia patch.
+If you're an Arch Linux enthusiast and you want to experience the beauty of Hyprland with Nvidia graphics, you've come to the right place. This repository is dedicated to streamlining the installation process, including a special Nvidia patch, which is essential for setting up Hyprland on your system.
 
 Discover more about Hyprland: [Hyprland on GitHub](https://github.com/hyprwm/Hyprland)
+
+⚠️ **Important Note**: This repository exclusively automates the installation of dependencies for the AUR package **hyprland-nvidia** and does not handle the installation of the AUR package itself.
 
 ## 📖 Installation Guide
 
@@ -30,16 +32,6 @@ Follow these steps to easily set up the required dependencies for the **hyprland
    ./hyprland-nvidia-dependencies.sh
    ```
 
-This script automates the installation of all necessary dependencies, ensuring a smooth Hyprland experience on your Arch Linux system, specifically tailored for Nvidia graphics cards.
+This script automates the installation of all necessary dependencies, enabling you to enjoy the full Hyprland experience on your Arch Linux system with Nvidia graphics cards.
 
-Enjoy your enhanced Arch Linux with Hyprland experience on Nvidia graphics cards! 🎉
-
-## ⚠️ Important Note
-
-This repository exclusively automates the installation of dependencies for the AUR package **hyprland-nvidia** and does not handle the installation of the AUR package itself.
-
-## 🙌 Acknowledgments
-
-Thanks to the creators of **Hyprland** for their outstanding work in developing a dynamic Wayland compositor based on wlroots that maintains a remarkable appearance while delivering outstanding performance. Explore Hyprland on [GitHub](https://github.com/hyprwm/Hyprland).
-
-We also appreciate the maintainers of the **hyprland-nvidia** AUR package. Find the AUR package on the Arch User Repository [here](https://aur.archlinux.org/packages/hyprland-nvidia). Enjoy your enhanced Arch Linux with Hyprland experience on Nvidia graphics cards! 🎉
+Enjoy Arch Linux with Hyprland on Nvidia graphics cards! 🎉
