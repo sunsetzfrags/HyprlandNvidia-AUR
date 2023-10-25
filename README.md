@@ -6,7 +6,7 @@ If you're an Arch Linux enthusiast and you want to experience the beauty of Hypr
 
 Discover more about Hyprland: [Hyprland on GitHub](https://github.com/hyprwm/Hyprland)
 
-⚠️ **Important Note**: This repository exclusively automates the installation of dependencies for the AUR package **hyprland-nvidia** and does not handle the installation of the AUR package itself.
+**Important Note**: This repository exclusively automates the installation of dependencies for the AUR package **hyprland-nvidia** and does not handle the installation of the AUR package itself.
 
 ## 📖 Installation Guide
 
