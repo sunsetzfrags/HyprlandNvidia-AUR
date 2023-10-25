@@ -1,4 +1,4 @@
-# 🚀 Hyprland-Nvidia
+# 🚀 Hyprland-Nvidia Dependencies Installer
 
 This project aims to simplify the installation of the AUR package **hyprland-nvidia** to enable you to experience the Hyprland compositor with Nvidia graphics on your Arch Linux system.
 
