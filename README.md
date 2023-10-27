@@ -38,10 +38,4 @@ Enjoy Arch Linux with Hyprland on Nvidia graphics cards! 🎉
 
 ## Special Thanks
 
-I'd like to extend my heartfelt thanks to the Hyprland development team for their exceptional work in creating and maintaining this outstanding wlroots-based compositor. Their dedication to the open-source community has made this simplified installation possible.
-
-A big shout-out also goes to the maintainer of the AUR package "hyprland-nvidia." Your efforts in keeping this package up to date for Arch Linux users are invaluable. Thanks for streamlining the installation process and making Hyprland accessible to all Arch Linux enthusiasts.
-
-We deeply appreciate your contributions and hard work!
-
-
+A huge shout-out to the Hyprland development team and the AUR package maintainer for making this installation possible. Your contributions are greatly appreciated!
