@@ -36,7 +36,7 @@ This script automates the installation of all necessary dependencies, enabling y
 
 Enjoy Arch Linux with Hyprland on Nvidia graphics cards! 🎉
 
-## :medal: Special Thanks
+## 🥇 Special Thanks
 
 A huge shout-out to the Hyprland development team and the AUR package maintainer for making this installation possible. Your dedication and hard work have been invaluable to the Arch Linux community!
 
